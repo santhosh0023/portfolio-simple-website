@@ -1,7 +1,6 @@
 # portfolio-simple-website
 
 
-# [Your Name]'s Portfolio
 
 Welcome to my personal portfolio! This repository contains the HTML and CSS code for my online portfolio.
 
